@@ -1,5 +1,5 @@
 # Crypto App Pro: The Financial Intelligence Platform for Crypto Investors
-
+![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/42b4dcfc7393e4828439a54e6b9370499f1ef68e/start.jpg)
 **CodeZilla '25 Hackathon Submission**  
 **Team: The Visionaries | Creators: Yashwant Gokul P, T Manasa, S Haridev, Praman Pradeep, Sankara Narayanan S**
 
