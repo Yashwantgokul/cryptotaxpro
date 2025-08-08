@@ -64,4 +64,4 @@ Our vision for Crypto App Pro extends far beyond this hackathon. Our roadmap inc
 ## 🔗 Try It Out
 
 Experience the future of crypto tax compliance yourself!  
-**Live Demo**: [dancing-cat-ac7bf2.netlify.app]([dancing-cat-ac7bf2.netlify.app](https://dancing-cat-ac7bf2.netlify.app/))
+**Live Demo**: [Click here](https://dancing-cat-ac7bf2.netlify.app/)
