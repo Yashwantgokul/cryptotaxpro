@@ -33,11 +33,12 @@ Our solution is built around a powerful, user-centric feature set that addresses
 Crypto App Pro is designed for a seamless user experience.
 
 1. **Import**: Users upload their transaction data.
-2. **Analyze**: Our logic engine processes the data and calculates gains, losses, and tax obligations.
-3. **Visualize**: An interactive dashboard displays key metrics, including a side-by-side comparison of nominal vs. real earnings.
-4. ![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/42b4dcfc7393e4828439a54e6b9370499f1ef68e/realmoney.jpg)
+   ![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/f1d62072ae7349e6c354e6d20a9859e6b33f2481/upload.jpg)
+3. **Analyze**: Our logic engine processes the data and calculates gains, losses, and tax obligations.
+4. **Visualize**: An interactive dashboard displays key metrics, including a side-by-side comparison of nominal vs. real earnings.
+ ![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/42b4dcfc7393e4828439a54e6b9370499f1ef68e/realmoney.jpg)
 5. **Report**: A compliant tax report is generated in a single click.
-6. ![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/42b4dcfc7393e4828439a54e6b9370499f1ef68e/pdfdownload.jpg)
+ ![image alt](https://github.com/Yashwantgokul/cryptotaxpro/blob/42b4dcfc7393e4828439a54e6b9370499f1ef68e/pdfdownload.jpg)
 
 ## ⚙️ Technology Stack
 
